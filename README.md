@@ -1,0 +1,2 @@
+# LangChainQA
+LangChainベースのQAシステム
